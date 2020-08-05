@@ -1,4 +1,4 @@
 # hello-world
 
 
-HHAHAHAHA
+This is my first repository. Nothing is inside here.
